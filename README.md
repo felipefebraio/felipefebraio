@@ -4,7 +4,6 @@
 - 🌱 Estou estudando Engenharia de Software
 - ⚡Desejo seguir uma carreira rumo ao cargo de PO
 -->
-# Oiii! Eu sou o Felipe 👋
 
 <div align="center">
 
