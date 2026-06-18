@@ -42,3 +42,5 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefebraio&theme=radical" alt="Felipe's Activity Graph" />
 </div>
+
+![snake gif](https://github.com/felipefebraio/felipefebraio/blob/output/github-snake-dark.svg)
