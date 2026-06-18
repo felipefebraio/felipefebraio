@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🚀 Tecnologias & Ferramentas que Possuo Interesse
 
 <div align="center">
 
